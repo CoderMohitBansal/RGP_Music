@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //This is First Edited Text
         //I don't like that
+
+        //This is first code of temp branch!
     }
 }
